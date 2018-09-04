@@ -1,0 +1,11 @@
+C:\Work\DiscordBot\Trinibot\bin\Debug\netcoreapp2.1\Trinibot.deps.json
+C:\Work\DiscordBot\Trinibot\bin\Debug\netcoreapp2.1\Trinibot.runtimeconfig.json
+C:\Work\DiscordBot\Trinibot\bin\Debug\netcoreapp2.1\Trinibot.runtimeconfig.dev.json
+C:\Work\DiscordBot\Trinibot\bin\Debug\netcoreapp2.1\Trinibot.dll
+C:\Work\DiscordBot\Trinibot\bin\Debug\netcoreapp2.1\Trinibot.pdb
+C:\Work\DiscordBot\Trinibot\obj\Debug\netcoreapp2.1\Trinibot.csprojAssemblyReference.cache
+C:\Work\DiscordBot\Trinibot\obj\Debug\netcoreapp2.1\Trinibot.csproj.CoreCompileInputs.cache
+C:\Work\DiscordBot\Trinibot\obj\Debug\netcoreapp2.1\Trinibot.AssemblyInfoInputs.cache
+C:\Work\DiscordBot\Trinibot\obj\Debug\netcoreapp2.1\Trinibot.AssemblyInfo.cs
+C:\Work\DiscordBot\Trinibot\obj\Debug\netcoreapp2.1\Trinibot.dll
+C:\Work\DiscordBot\Trinibot\obj\Debug\netcoreapp2.1\Trinibot.pdb
